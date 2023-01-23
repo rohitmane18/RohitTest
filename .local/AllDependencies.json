@@ -7374,9 +7374,9 @@
     "restore": {
       "projectUniqueName": "Calculate Client Security Hash",
       "projectName": "Calculate Client Security Hash",
-      "projectPath": "C:\\Users\\RohitMane\\Documents\\UiPath\\Calculate Client Security Hash\\.local",
+      "projectPath": "C:\\Users\\RohitMane\\Documents\\UiPath\\RohitTest\\.local",
       "packagesPath": "C:\\Users\\RohitMane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RohitMane\\Documents\\UiPath\\Calculate Client Security Hash\\.local"
+      "outputPath": "C:\\Users\\RohitMane\\Documents\\UiPath\\RohitTest\\.local"
     },
     "frameworks": {
       "net461": {
